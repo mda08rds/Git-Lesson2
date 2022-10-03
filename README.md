@@ -1,5 +1,7 @@
 # Git-Lesson2
 
+[Website for this repo](https://mda08rds.github.io/Git-Lesson2)
+
 ## ToDo List
 
 * Make a List
@@ -40,7 +42,6 @@ _Italics_
 Code block
 ```
 `inline code`
-[Wesbite for this repo](https://mda08rds.github.io/Git-Lesson2)
 
 ##Images
 ```
