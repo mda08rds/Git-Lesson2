@@ -1,4 +1,4 @@
-#Rob's notes from GitHub and GitKraken course
+# Rob's notes from GitHub and GitKraken course
 
 These are some notes i made during the course. 
 [Course notes](https://srse-git-github-zero2hero.netlify.app)
