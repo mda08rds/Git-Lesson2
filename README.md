@@ -17,12 +17,15 @@
 * Commit file and write message
 * Push to GutHub
 
+<<<<<<< HEAD
 ## Shopping List
 
 * Bread
 * Butter
 * Ham
 
+=======
+>>>>>>> main
 
 
 
