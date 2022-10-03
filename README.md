@@ -29,5 +29,22 @@
 * Feed guinea pigs
 * Buy cat food
 
+## Text formatting
+
+**Bold**
+_Italics_
+~~Strikethrough~~
+>Quoted text
+
+```R
+Code block
+```
+`inline code`
+[Link to a webpage](http://www.google.com)
+
+##Images
+```
+![](url for image or link to local image)
+```
 
 
