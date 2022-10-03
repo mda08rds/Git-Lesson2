@@ -15,7 +15,7 @@
 * Stage file
 * Save file
 * Commit file and write message
-* Push to GutHub
+* Push to GitHub
 
 ## Shopping List
 
