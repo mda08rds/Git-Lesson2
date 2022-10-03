@@ -40,7 +40,7 @@ _Italics_
 Code block
 ```
 `inline code`
-[Link to a webpage](http://www.google.com)
+[Wesbite for this repo](https://mda08rds.github.io/Git-Lesson2)
 
 ##Images
 ```
